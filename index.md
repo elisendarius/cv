@@ -17,7 +17,7 @@ title: "Elisenda Rius-Vilarrasa — CV"
 
   <div class="cv-aside">
     <!-- Optional photo. If you don't want a photo, delete the img tag. -->
-    <img class="cv-photo" src="assets/eli.jpg" alt="Photo">
+    <img class="cv-photo" src="assets/eli.png" alt="Photo">
 
     <div class="cv-contacts">
       <ul>
@@ -131,5 +131,6 @@ Engelska (flytande) · Svenska (yrkesmässig) · Spanska (modersmål/flytande) �
 
 ## Referenser
 Lämnas på begäran.
+
 
 
