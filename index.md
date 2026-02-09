@@ -24,7 +24,7 @@ title: "Elisenda Rius-Vilarrasa — CV"
         <li><span class="icon">📍</span>Uppsala, Sweden</li>
         <li><span class="icon">✉</span><a href="mailto:rius.eli@gmail.com">rius.eli@gmail.com</a></li>
         <li><span class="icon">⌂</span><a href="https://github.com/elisendarius">github.com/elisendarius</a></li>
-        <li><span class="icon">in</span><a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+        <li><span class="icon">in</span><a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/)">https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/</a></li>
       </ul>
     </div>
   </div>
@@ -131,3 +131,4 @@ Engelska (flytande) · Svenska (yrkesmässig) · Spanska (modersmål/flytande) �
 
 ## Referenser
 Lämnas på begäran.
+
