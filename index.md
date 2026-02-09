@@ -2,56 +2,132 @@
 title: "Elisenda Rius-Vilarrasa — CV"
 ---
 
-# Elisenda Rius-Vilarrasa
-**Quantitative Geneticist | Genomics | Data Science**
+<link rel="stylesheet" href="assets/cv.css">
 
-Sweden · email@example.com · GitHub: https://github.com/yourusername · LinkedIn: https://linkedin.com/in/yourprofile  
+<div class="cv-header">
+  <div class="cv-name">
+    <h1>Elisenda Rius-Vilarrasa</h1>
+    <p class="role">Principal Geneticist – Kunskap och utveckling, avel (Växa)</p>
+
+    <div class="cv-actions">
+      <a class="btn" href="Eli_CV.pdf">Download PDF</a>
+      <a class="btn" href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+    </div>
+  </div>
+
+  <div class="cv-aside">
+    <!-- Optional photo. If you don't want a photo, delete the img tag. -->
+    <img class="cv-photo" src="assets/photo.jpg" alt="Photo">
+
+    <div class="cv-contacts">
+      <ul>
+        <li><span class="icon">📍</span>Uppsala, Sweden</li>
+        <li><span class="icon">✉</span><a href="mailto:rius.eli@gmail.com">rius.eli@gmail.com</a></li>
+        <li><span class="icon">⌂</span><a href="https://github.com/elisendarius">github.com/elisendarius</a></li>
+        <li><span class="icon">in</span><a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+# Elisenda Rius-Vilarrasa  
+**Principal Geneticist – Kunskap och utveckling, avel (Växa)**
+
+Uppsala, Sweden · rius.eli@gamil.com · GitHub: https://github.com/elisendarius · LinkedIn: https://linkedin.com/in/yourprofile  
 **Download PDF:** [Eli_CV.pdf](Eli_CV.pdf)
 
 ---
 
-## Summary
-Quantitative geneticist (PhD) with experience across academia and applied breeding R&D. Specialised in genomic prediction, mixed models, validation/monitoring, and reproducible analytics. Strong stakeholder communication and scientific visualisation.
+## Profil
+
+Erfaren forsknings- och utvecklingsledare inom animalieproduktion med djup vetenskaplig kompetens och stark förankring i tillämpad verksamhet. Har helhetsansvar för forskningsprojekt som Principal Investigator och vetenskaplig ledare, med fokus på kvalitet, leverans och strategisk relevans. Van att driva och samordna FoU-initiativ i samverkan med näringsliv, akademi och andra externa aktörer. Stark förmåga att omsätta forskning till praktisk nytta för lantbrukare, med särskilt fokus på hållbarhet, resurseffektivitet och framtidens livsmedelsproduktion.
 
 ---
 
-## Core Skills
-**Quantitative genetics:** mixed models (uni/multi-trait), genomic prediction (GBLUP), validation (accuracy/bias/R²), crossbred evaluation, G×E  
-**Data & software:** R (data.table, ggplot2), SAS, Bash/Linux, Git (GitHub/GitLab), reproducible workflows  
-**Communication:** technical writing, clear reporting to non-technical stakeholders, science visualisation
+## Nyckelkompetenser
+
+- Forsknings- och innovationsarbete inom FoU
+- Projektledning och koordinering med ansvar för tid, kvalitet och innehåll
+- Animalieproduktion och hållbara produktionssystem ur ett genetiskt perspektiv
+- Bidrag till strategisk FoU-planering och prioritering
+- Samverkan med akademi, forskningsinstitut och näringsliv
+- Vetenskaplig kvalitetssäkring och riskbedömning
+- Medverkan i uppföljning av samarbeten och projekt
+- Kommunikation med beslutsfattare och övriga intressenter
+- Datadrivet beslutsstöd och analys
+- Användarupplevelse (UX) och behovsdriven utveckling
+- Vetenskaplig visualisering och datavisualisering
 
 ---
 
-## Experience
+## Yrkeserfarenhet
 
-### Research / Applied Genetics (Livestock)
-*Sweden · Dates*  
-- Built and validated genomic prediction workflows; assessed stability across breeds/environments.  
-- Analysed large phenotypic/genomic datasets using mixed models and multivariate approaches.  
-- Produced decision-ready outputs (dashboards/figures/reports) for breeding and management contexts.
+### Senior / Principal Geneticist – Vetenskaplig Ledare & PI  
+**Växa Sverige** - *2014–pågående*
 
-### PhD Researcher — Quantitative Genetics
-*The University of Edinburgh, UK · Dates*  
-- Doctoral research in statistical genetics; developed/compared models for prediction and inference.  
-- Delivered publishable analyses and presentations; contributed to teaching/supervision in stats/genetics.
-
----
-
-## Education
-**PhD, Quantitative Genetics** — The University of Edinburgh (Year)  
-**MSc/BSc** — Field, Institution (Year)
+- Driver och utvecklar forsknings- och innovationsinitiativ inom animalieproduktion med fokus på genetisk förbättring, hållbarhet och nya egenskaper.
+- **Principal Investigator** för FoU-projekt med ansvar för vetenskaplig inriktning, kvalitet, leverans och resultat.
+- Leder och samordnar FoU-arbete över flera projekt och funktioner, i nära samarbete med interna verksamheter.
+- Prioriterar och planerar forskningsinsatser utifrån verksamhetsbehov, strategiska mål och vetenskaplig relevans.
+- Säkerställer hög vetenskaplig kvalitet genom metodutveckling, granskning och kvalitetssäkring av resultat.
+- Bygger och underhåller långsiktiga samarbeten med universitet, forskningsmiljöer och externa aktörer.
+- Bidrar till forskningsstrategi och långsiktig utveckling av organisationens FoU-portfölj.
+- Kommunicerar forskningsresultat till olika målgrupper och stödjer beslutsfattande i verksamheten.
 
 ---
 
-## Research Interests (selected)
-Genomic prediction in crossbred populations · Methane/feed efficiency · Model validation & monitoring · G×E in production systems
+## Utvalda FoU-områden
+
+- Hållbar animalieproduktion
+- Klimat- och miljörelaterade egenskaper (t.ex. metan, resurseffektivitet)
+- Foderutnyttjande och produktionseffektivitet
+- Samspel mellan genetik, management och miljö
+- Tillämpad forskning med direkt nytta för lantbrukare
 
 ---
 
-## Languages
-English (fluent) · Swedish (professional) · Spanish (native/fluent) · Catalan (native/fluent) · Italian (reading)
+## Ledarskap & samverkan
+
+- Projektägare och vetenskaplig ledare för FoU-projekt
+- Samordning av tvärfunktionella och externa samarbeten
+- Mentorskap och stöd till kollegor inom analys och forskning
+- Erfarenhet av att representera verksamheten i möten, seminarier och kunskapsforum
 
 ---
 
-## References
-Available upon request.
+## Tekniska färdigheter
+
+- Projektstrukturering och uppföljning
+- Vetenskaplig dokumentation och rapportering
+- Reproducerbara arbetsflöden och kvalitetssäkring
+
+### Kärnkompetenser inom **Kvantitativ genetik:**, **Dataanalys och modellering:**  och **Kommunikation:**
+
+
+---
+
+## Sammanfattande matchning mot rollen (Lantmännen)
+
+-  Driver och genomför FoU-initiativ inom animalieområdet  
+-  Helhetsansvar för projekt och vetenskaplig kvalitet  
+-  Stark samverkan med akademi och externa aktörer  
+-  Strategiskt bidrag till långsiktiga FoU-mål  
+-  Tydlig koppling mellan forskning, innovation och lantbrukets behov  
+
+---
+
+## Utbildning
+**PhD, kvantitativ genetik** — University of Edinburgh (2005–2009)  
+**Masterexamen, bioinformatik** —  (2004–2005)
+**Agronomexamen (ingenjörsnivå, BSc + MSc, 5 år / 300 hp)** — (1998–2003)  
+
+---
+
+## Språk
+Engelska (flytande) · Svenska (yrkesmässig) · Spanska (modersmål/flytande) · Katalanska (modersmål/flytande) · Italienska (läsförståelse)
+
+---
+
+## Referenser
+Lämnas på begäran.
