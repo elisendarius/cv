@@ -11,7 +11,7 @@ title: "Elisenda Rius-Vilarrasa — CV"
 
     <div class="cv-actions">
       <a class="btn" href="Eli_CV.pdf">Download PDF</a>
-      <a class="btn" href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+      <a class="btn" href="https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/">LinkedIn</a>
     </div>
   </div>
 
@@ -24,7 +24,7 @@ title: "Elisenda Rius-Vilarrasa — CV"
         <li><span class="icon">📍</span>Uppsala, Sweden</li>
         <li><span class="icon">✉</span><a href="mailto:rius.eli@gmail.com">rius.eli@gmail.com</a></li>
         <li><span class="icon">⌂</span><a href="https://github.com/elisendarius">github.com/elisendarius</a></li>
-        <li><span class="icon">in</span><a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/)">https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/</a></li>
+        <li><span class="icon">in</span><a href="[https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/](https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/)">https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/</a></li>
       </ul>
     </div>
   </div>
@@ -34,7 +34,7 @@ title: "Elisenda Rius-Vilarrasa — CV"
 # Elisenda Rius-Vilarrasa  
 **Principal Geneticist – Kunskap och utveckling, avel (Växa)**
 
-Uppsala, Sweden · rius.eli@gamil.com · GitHub: https://github.com/elisendarius · LinkedIn: https://linkedin.com/in/yourprofile  
+Uppsala, Sweden · rius.eli@gmail.com · GitHub: https://github.com/elisendarius · LinkedIn: https://www.linkedin.com/in/elisenda-rius-vilarrasa-35a38726/ 
 **Download PDF:** [Eli_CV.pdf](Eli_CV.pdf)
 
 ---
@@ -131,6 +131,7 @@ Engelska (flytande) · Svenska (yrkesmässig) · Spanska (modersmål/flytande) �
 
 ## Referenser
 Lämnas på begäran.
+
 
 
 
